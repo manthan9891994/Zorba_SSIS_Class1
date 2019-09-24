@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="9/24/2019 1:57:13 PM"
+  DTS:CreationDate="9/24/2019 2:02:23 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="PRALADH"
   DTS:CreatorName="PRALADH\dhruba"
-  DTS:DTSID="{3396EDCA-93EB-473C-AF89-0EA926DD0D6A}"
+  DTS:DTSID="{DDDF3106-246D-4BD5-B14C-2833FE9B3DC8}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="13.0.2165.0"
   DTS:LocaleID="1033"
-  DTS:ObjectName="praladh"
+  DTS:ObjectName="praladh s pakage"
   DTS:PackageType="5"
   DTS:VersionBuild="1"
-  DTS:VersionGUID="{AC21F454-19AB-4C6B-8156-60CAC0376E31}">
+  DTS:VersionGUID="{A9A437C5-F486-4785-B3EC-6BD3F525A807}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -21,7 +21,7 @@
       DTS:refId="Package\Data Flow Task"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:DTSID="{82632CA8-2168-40ED-83D8-FCAA860750D1}"
+      DTS:DTSID="{384F9B3B-AB71-4585-84FB-FE50A1E57612}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
       DTS:ObjectName="Data Flow Task"
@@ -48,7 +48,7 @@
         <NodeLayout
           Size="151,42"
           Id="Package\Data Flow Task"
-          TopLeft="221,83" />
+          TopLeft="182,111" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
