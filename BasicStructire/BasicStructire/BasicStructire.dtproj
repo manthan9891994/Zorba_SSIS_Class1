@@ -54,6 +54,7 @@
               </SSIS:Properties>
               <SSIS:Parameters />
             </SSIS:PackageMetaData>
+
             <SSIS:PackageMetaData SSIS:Name="Rambabu's Package.dtsx">
               <SSIS:Properties>
                 <SSIS:Property SSIS:Name="ID">{583C3F21-3BC0-4F0C-9FA1-3024D7862B7C}</SSIS:Property>
@@ -63,7 +64,9 @@
                 <SSIS:Property SSIS:Name="VersionBuild">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
+
                 <SSIS:Property SSIS:Name="VersionGUID">{D75E6072-ECDC-4DF4-BD17-4B55B92F2FAB}</SSIS:Property>
+
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
