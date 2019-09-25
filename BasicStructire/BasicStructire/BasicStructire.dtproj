@@ -26,7 +26,9 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-SFNPJOT</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
+
           <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALkxMtnSNQUKV9Ov9kBZ3GAAAAAACAAAAAAAQZgAAAAEAACAAAAAchUxkNhkoJioVKnCvhBpMVzwrbi9uTs0AN2WYFMioKQAAAAAOgAAAAAIAACAAAAAoP7Rm7SBRhbkv9Im5LAQA+Dh/m8WOQa1sG2A2d0YGJJAAAACt8dX6mmPfLpf09mjsVBxjlCr0BYjbo3UcKJof2Y5BKkgok+vR8wzCxPYji4fvF03EA6h0dqk4vmXsi60n8rkC1epreDYWf1ZR/xkC9DF7Kr7y748JY3/uJbLJ9p6T6LRRJfCZZOB07WqIR4RaRbOJ9hLB8rUhZ4USDNTQIBodJsxaGrRpfdj1GrLtBfxQOoRAAAAAd+SQL7TsVeAgM5wcyRyM+OtMdAEtuwFfEPd/zvNg446/GmzjXw/RuwMi8vuzptAPm6Rh8y2w8FivTe816RBMfA==</SSIS:Property>
+
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -34,6 +36,7 @@
           <SSIS:Package SSIS:Name="Rambabu's Package.dtsx" SSIS:EntryPoint="1" />
           <SSIS:Package SSIS:Name="BIPU.dtsx" SSIS:EntryPoint="1" />
           <SSIS:Package SSIS:Name="bipu2.dtsx" SSIS:EntryPoint="1" />
+
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
@@ -73,10 +76,12 @@
               </SSIS:Properties>
               <SSIS:Parameters />
             </SSIS:PackageMetaData>
+
             <SSIS:PackageMetaData SSIS:Name="BIPU.dtsx">
               <SSIS:Properties>
                 <SSIS:Property SSIS:Name="ID">{4D85DF12-2AFF-42F6-8D59-50BB370E2F26}</SSIS:Property>
                 <SSIS:Property SSIS:Name="Name">BIPU</SSIS:Property>
+
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionBuild">1</SSIS:Property>
