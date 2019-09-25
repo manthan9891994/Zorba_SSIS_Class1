@@ -26,12 +26,13 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-SFNPJOT</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANr3ohyp0zUOFNB4xK61fbwAAAAACAAAAAAAQZgAAAAEAACAAAADVpsYliZxYCYq+jXyPoG9w2SBX/YR3phmIm5+Pn+RGNwAAAAAOgAAAAAIAACAAAAAWbwZ27KXAWisJK4/zLAe6wBc2VnhMYB9D3nxfqvyu05AAAAC4gdEC0DzLHCVnJg5DaUX4zmXkmwr/6qTakep8+hS8N75+TDIORvsmHL+d+LHvcTXde9QndKJBijM/8kTm1j+F1sycIy17zPQmrTHq14znbYpZN7TMga2iK5EFVm7WiCPbb3Ys1blFhJww6o3HsxgyDOb1BlvdMPz2Af3flLtygups4aZCFe0fdFMQreFppxdAAAAAZlMaC6PQFOC3xf2XQdtQHlwhUW+1ccwQMIES7jY1/zZnM8njBc9Nly6HHdVcujy3f3zi9GnnI4uQaLcEcseJ6g==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALkxMtnSNQUKV9Ov9kBZ3GAAAAAACAAAAAAAQZgAAAAEAACAAAABo/FJReBKloPPVy9faE5W5En5J8MU1OlCDWhyx6tvzxAAAAAAOgAAAAAIAACAAAACtzM+iYmkKZbh96EXW2WyTsXjHKRGLBNDek5KZ5X6E3ZAAAAAOAfRVCdsHATcMn5qrS3ImRDTmQXnnT6ME/+HeUejuA4HWI+0dm1Ky4cfvHf2rNB2bJbOi8MTIY/8RhpQ2xposQVa7jVsvaM/UeR4Y5W8tgYvBr0INLLo2fhZxKacrW39Cq27vfT+LohqnmpdENCbDXTkqYNR6w0cGSqOhr2IYMY3pHKc+fUTHOz2zvaFYpbdAAAAARBsu7jkxY+xkSMdaLrUn8KPtqK7TThqvp4zeKQ5fguw8jJoh331eH8BXjFGODsDXBjygsY4cFlDFwlj1+h7NeQ==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
           <SSIS:Package SSIS:Name="Package.dtsx" SSIS:EntryPoint="1" />
           <SSIS:Package SSIS:Name="Rambabu's Package.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="BIPU.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
@@ -54,7 +55,6 @@
               </SSIS:Properties>
               <SSIS:Parameters />
             </SSIS:PackageMetaData>
-
             <SSIS:PackageMetaData SSIS:Name="Rambabu's Package.dtsx">
               <SSIS:Properties>
                 <SSIS:Property SSIS:Name="ID">{583C3F21-3BC0-4F0C-9FA1-3024D7862B7C}</SSIS:Property>
@@ -64,9 +64,24 @@
                 <SSIS:Property SSIS:Name="VersionBuild">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-
                 <SSIS:Property SSIS:Name="VersionGUID">{D75E6072-ECDC-4DF4-BD17-4B55B92F2FAB}</SSIS:Property>
-
+                <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
+                <SSIS:Property SSIS:Name="Description">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="ProtectionLevel">1</SSIS:Property>
+              </SSIS:Properties>
+              <SSIS:Parameters />
+            </SSIS:PackageMetaData>
+            <SSIS:PackageMetaData SSIS:Name="BIPU.dtsx">
+              <SSIS:Properties>
+                <SSIS:Property SSIS:Name="ID">{4D85DF12-2AFF-42F6-8D59-50BB370E2F26}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">BIPU</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">1</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionComments">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{88156681-1835-423D-9DF5-D12FA8938D61}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
