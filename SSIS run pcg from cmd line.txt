@@ -1,4 +1,5 @@
 powershell Script to run SSIS package:
+powershell Script to run SSIS package:
 
 # Variables
 $SSISNamespace = "Microsoft.SqlServer.Management.IntegrationServices"
