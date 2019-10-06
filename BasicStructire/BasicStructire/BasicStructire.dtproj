@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-SFNPJOT</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAedOp3TaATUiiXulm+z9rxQAAAAACAAAAAAAQZgAAAAEAACAAAACt1pN7FcE7VAvffAAR+1p4zeCdpBLP6DC9fzIw7W1SFAAAAAAOgAAAAAIAACAAAADW4pd2CXgJLKJWqSr2DozLziVL3/6lroDUDzDX0ar4jZAAAAA2xmKWYAHFxMptRt9fv83F3soQk8jyD7RHcBh9o4D8elnAMJ94WYKtEhMH3eDNqC2Ip8jX1ZgxHyqT21ru+r401V+rXw7Mi4UeCfvAP7bF4x3P9wKVRQTCxv/m8uWMgA6w3JalWOoLIuLYcjNBU/pg/3YZEicgmFXgAkXe8/yFbT+nwNs4yKFRNyDXuNQk4Z1AAAAAabpQSWy9AFnHewkBST6g1vU/rz/80lOUDYoHsNIFWsmmLQF8eovb3JhNBJ7tTcI9VdCGfy4LnNBAgqRcqWEebg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAedOp3TaATUiiXulm+z9rxQAAAAACAAAAAAAQZgAAAAEAACAAAACsAf8QhqC4bpSqI0TZo+ZjpAskD9kQvCXX2OsxaETvRQAAAAAOgAAAAAIAACAAAAB8dvOSfH8ld2rRn5BShzqyGZylv2srbGFUjYG0Gxk7gZAAAACvNrXYovcMuLtFE1ZLu3hjUhKxS7mWrI9JrxEVRzeCnLNVYaVqXyRR9zLS4OmNDo6/YU3qUrepEvpllXXISO9CkJmCYBQEFKP9fIvnPpPoUPxU21XzkxVyFlIolW60zKKKFJ/Cxjf6Jbr/P/Bni6hHW1V3bRyEl6JJg9V8k47gxnVnF2d3dn3Sztk+RPa5P/dAAAAA5anFljrmWtKJ9987TbVnMp/xy09ig6AkCAruMB3kooebQodFr9gy2rxPyjN3UgqsQ/2BRpeu+nEfgFOjXrHQNg==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -35,6 +35,7 @@
           <SSIS:Package SSIS:Name="BIPU.dtsx" SSIS:EntryPoint="1" />
           <SSIS:Package SSIS:Name="bipu2.dtsx" SSIS:EntryPoint="1" />
           <SSIS:Package SSIS:Name="Rama_Pacakage.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="Created_By_Rama.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
@@ -438,6 +439,23 @@
                   </SSIS:Properties>
                 </SSIS:Parameter>
               </SSIS:Parameters>
+            </SSIS:PackageMetaData>
+            <SSIS:PackageMetaData SSIS:Name="Created_By_Rama.dtsx">
+              <SSIS:Properties>
+                <SSIS:Property SSIS:Name="ID">{CA0EC1B8-0928-41F3-B062-97FBA2AF17F1}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">Created_By_Rama</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">1</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionComments">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{68FB86F0-34F3-4F51-8125-CD6607DD50E9}</SSIS:Property>
+                <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
+                <SSIS:Property SSIS:Name="Description">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="ProtectionLevel">1</SSIS:Property>
+              </SSIS:Properties>
+              <SSIS:Parameters />
             </SSIS:PackageMetaData>
           </SSIS:PackageInfo>
         </SSIS:DeploymentInfo>
