@@ -1,0 +1,205 @@
+profile: SQL developer
+
+
+
+Expectation from your profile?
+migration (Upgrading the system)---indexing and creating proc-------Technical Stuff
+
+
+Company 
+----> System:  Windows/Linux/Mac
+
+
+---------------------------------------
+Essential software:
+----------------------------------------
+your email id: 
+
+profile db 	
+  Company at where I work: bank of America:
+   surendra.chauhan@boamerica.com
+   --Finance---mail
+   --mouse is not----
+   --Seat Allocation-->Admin
+   --Reports to your Reporting manager
+   
+   
+   Client: 1-2 months, told you
+  Client: SPS commerce:   build some db ----> IT  ---> Contracts/deals
+		  schauhan@spscommerce.com
+		  Credentials ---> Change credential
+
+
+Induction:
+Where they give you knowledge about company!
+Which team is which one!--- Finance---mail to finance, Admin ---Seat allocation, IT Team---> IT Hws, IT Sws --->>
+SQL server in my system
+Latest : I need to download and install
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Microsoft Ofiice : Company email id, Do not add gmail in Office laptop...
+google---> Technical stuff
+Youtube---> Technical stuff
+
+* If I need to download and install // IT team will be doing it ?
+
+1) Outlook  --->>>> mialing purpose  ---Official ----> Leave, grant permission, grant access  , Client Communication  --------->>>Delete : Store those mail,
+   No code share....  .dtsx
+   C# ---->> class
+   mail to gmail
+   
+2) Skype--->> older gets deleted if u close the window, Slack ---> C ,lync......  ---> msgging SW used you want to communicate internally..............
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Data base related stuff :
+Install any s/w: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*** Reporing manager....?  ---> from your ORG, don't know tech stuff,...........   Process --->> Server access
+    Client Manager...!!! -----> Polite, hostile,....
+*** You decide on your own....take latest!
+*** Which server ?
+
+Need to ask you team what technical Sw are they using....?
+*** SQL Server 2014, 2015, 2017  
+*** Visual Studio BI 2014, 2015, 2017  --->     Paid
+*** VPN?  ---> allows you to accesss client server
+		  ---> Client server   ---> Access client db.........
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+KT : Knowledge Transfer
+Tools: JIRA tickets / UserId and Password ---> Lifecycle of any requirement or Sw?
+SalseForce
+Create some requirements
+Your team...
+BusinessAnalyst  ---> Create simpler requirement developer can understand
+SDLC ----> Software development Life cycle 
+--->  First analysis, need to understand  --whoever has created requirement...Go and ask?
+--->  Plan deadline that you need to achieve ------> Roadmap ------> Approach
+--->  Start coding 
+--->  Finish coding
+--->  Unit Testing  (Test by yourself)
+--->  Find some bug, Error  ===> make it cleaner
+--->  Testing team  5 testers ---bugs---problem---- Create a ticket --> Information related to bug ---> Assigned  ---> Track  (15)  ---> Solve problem in devlopment
+			Assign this ticket back to tester ---> Comment  ---> (Retesting) ---->  Closed  
+			Requirement 
+--->  Solve error 
+--->  Production  ------>  Configuration Setting, Coding  ----> 10 weeks <----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Servers : development server, Test Server, production Server
+Deploy you code to production:
+---> Prod
+
+
+
+Requirement comes
+---> Do some kind of work.....
+What kind of work?--->> Requirement?
+Client---> Give Text, Excel, in your Tools
+
+Requirement are there ?
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What Sw development methodology you followed?
+1) Water Fall: 
+Every requirement on first day....timing....
+change the requirement while you are developing it.
+
+
+2) Agile methods: 
+sets: your result :---> new requirement ---> Evolution of ur sw
+1)  Scrum :
+Sprint:  Timeframe in which we need to work......
+   *** Manager : 3 JIRA tickets to work on....
+   3 weeks of sprint : Might not able to deliver 1.  ---->>  backlog  2.5 week 2 tickets
+   Tracked by manager ---->
+Scrum:
+	 Scrum master: Manager / Team lead / Delivery manager :: Do sprint planning    (( 200 items.......to work on  (3 people: 5 items)))
+     Stand up meetings: On Call, Zoom meeting, Physcial
+     Dailey meeting:
+     Status meeting: 
+	 
+	 Sprint retro:
+	 ***---> In which whole team sits do analyse ---> what went wrong? what went right in your last sprint?
+	 
+	 
+	 ---- 10 days ----
+	 What I am doing?
+	 Working Old project different Db, Packages....--->db part
+	 10 days analyse---> db, package 
+	 
+	 1st month ready to work......
+	 JIRA: Seniar developer
+	 
+	 Working new project which is development!--->C#.net  ---->DB ---> Package
+	 
+	 (Deployment on prod) At End of sprint
+	 
+	 
+2) Kanban : (no sprint): Toyota
+Continues dev and Con deployment...	
+1 : item at a time 
+Good Amount: Toyota : more productive then Scrum
+	 
+	 
+3) Iterative
+4) Spiral
+5) V-shaped
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	 
+	 
+	 1)  -----> GitHub and TFS :
+	 Online repo where your code will be stored
+	 1st time ----> put this project in (1 project---> 5 packages)----> Project in SSISDB
+	 3 people want to work 
+		take the whole project
+		---> make the changes on the desired package
+		---> Changed part on github
+
+----> Single time multiple dev can work on ur project.
+----> By which check-in this bug came?  ----> History
+If they are managing this kind of repo, ask them where are they storing the packages?
+ 
+ ---> 1)  Packages and db structure ? where?
+          TFS, GitHub  ----> Clone....!!!!
+          You-tube---> Video 
+ 
+ Make your account on github/TFS
+ 
+* To deploy from dev to test and test to prod ----> many tools TeamCity, VSTS....
+
+ manually ------> much aware, we were able to afford some tools
+ 
+ 100 table  ----> 900 colums  ---> Ask to put validations
+ =====> You go ====> Introduction ====> 10 line
+ -----> Yourname
+ -----> Previous Org
+ -----> Role: profile: ETL Deve, Database developer, Trainee,....
+ -----> 2 years
+ -----> Client was Amazon
+ -----> Hobbies : Travelling, Music, Cricket ---> IPL 
+ 
+ Businness: Generic-thing -------> Generic packages
+ 
+ * Morning 7:00 AM IST to 11:30 PM IST ---- On Whattsapp----> 20 - 30 min
+ -----My site these is all I have used or atleast required tools--------
+
+
+
+
+
+
+		  
+
+
+
+
+
+
+

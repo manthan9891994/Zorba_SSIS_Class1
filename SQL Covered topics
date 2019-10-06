@@ -1,0 +1,57 @@
+RollNo  Class   Subject  Marks--------------------.txt---Source File
+1        A		 ENG		65
+1        A       MATHS     70
+2	     B       Science   65
+
+
+
+
+
+RollNo  Class  Subject  Marks--------------------.csv---Source File
+3      A		ENG		65
+5      C       MATHS    70
+4	   B       Science  65
+
+
+
+
+RollNo  Class  Subject  Marks--------------------SQL Table---
+1      A		ENG		65
+1      A       MATHS    70
+2	   B       Science  65
+
+
+
+Merge the data......
+Sort data
+SSIS to make a table in database 
+--------------------------------------------------Derive column
+ID  RollNo  Class  Subject  Marks  Date
+
+
+
+
+Stored procedure ---which can find the rankers among the student   Class:  A, B, C   --call procedure from package
+1st and 2nd from each class
+
+in to table called Ranker
+RollNo TOTAL Class Rank-----Package  
+
+
+
+
+make a .txt file based on each class A   ,  class B, class C
+
+
+RollNo ENG SCIENCE MATHS TOTAL
+
+
+
+
+
+
+
+
+-------These are  OnError  , Parameters,  config file,  Deploy package
+
+
