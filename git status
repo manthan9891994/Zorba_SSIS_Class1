@@ -1,0 +1,163 @@
+[33mcommit 797148ce0706f7448b5960a4d037d422cbdd69dc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: manthan vaghela <manthan9894@gmail.com>
+Date:   Wed Oct 9 07:39:03 2019 +0530
+
+    Changes done by Ali
+
+[33mcommit 2077e28c34706463bcbc831d75256249ed0eba8a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: manthan vaghela <manthan9894@gmail.com>
+Date:   Wed Oct 9 07:28:53 2019 +0530
+
+    GitHub GitBash Lec commit ChangeDoc.txt
+
+[33mcommit 8e4e8fad32253f28add27008f0ef083b565f2321[m
+Author: manthan vaghela <manthan9894@gmail.com>
+Date:   Mon Oct 7 00:21:20 2019 +0530
+
+    Reverting to the state of the project at prev version
+
+[33mcommit 94c4a2ead033f636f58c22db631ce6e60d4143bf[m
+Merge: 78c6c7d 93920a1
+Author: manthan vaghela <manthan9894@gmail.com>
+Date:   Mon Oct 7 00:12:47 2019 +0530
+
+    from pipu test2
+
+[33mcommit 93920a1ad636401c6de5edf6381653c1b1cd37f7[m[33m ([m[1;31morigin/BIPU[m[33m)[m
+Author: manthan9891994 <55454414+manthan9891994@users.noreply.github.com>
+Date:   Mon Oct 7 00:11:28 2019 +0530
+
+    test2
+
+[33mcommit 78c6c7dad52f2421ea7a4993bc14ce00a1691a15[m
+Merge: 76e5896 be4670f
+Author: manthan vaghela <manthan9894@gmail.com>
+Date:   Mon Oct 7 00:06:57 2019 +0530
+
+    Merge remote-tracking branch 'origin/Rama_Own'
+
+[33mcommit be4670fdd10d2bd3d8508b05d97ed4c1897cd79a[m[33m ([m[1;31morigin/Rama_Own[m[33m)[m
+Author: manthan9891994 <55454414+manthan9891994@users.noreply.github.com>
+Date:   Mon Oct 7 00:05:29 2019 +0530
+
+    test
+
+[33mcommit 76e5896951e0923261ccd3a0a2d426fac405b5ed[m
+Merge: 8749d24 c392917
+Author: manthan vaghela <manthan9894@gmail.com>
+Date:   Mon Oct 7 00:04:36 2019 +0530
+
+    Merge remote-tracking branch 'origin/Rama_Own'
+
+[33mcommit 8749d24fb04640c68523db47da21efaa615a0e3c[m
+Author: manthan vaghela <manthan9894@gmail.com>
+Date:   Sun Oct 6 23:58:31 2019 +0530
+
+    Changes file try
+
+[33mcommit 118434f296edf788bfa77b1bed3dfe507de9fe37[m
+Author: manthan vaghela <manthan9894@gmail.com>
+Date:   Sun Oct 6 23:27:01 2019 +0530
+
+    Manthan Commit from git bash
+
+[33mcommit c3929179d8e1c02cb63da35786a5200d38c86cf6[m
+Author: KandelRama2547 <55456607+KandelRama2547@users.noreply.github.com>
+Date:   Fri Oct 4 10:33:06 2019 -0400
+
+    try to create branch and create package
+
+[33mcommit e3955b937abdf49a137539bb72d25e48ce2bc6e7[m
+Author: KandelRama2547 <55456607+KandelRama2547@users.noreply.github.com>
+Date:   Thu Oct 3 13:49:32 2019 -0400
+
+    Rama created one pacakage with Ff to Oldb destination.
+
+[33mcommit f808626a1673d1c89c1bfeb23c87ef6be84c903f[m
+Author: MINDATTA <55456460+MINDATTA@users.noreply.github.com>
+Date:   Wed Sep 25 13:11:40 2019 -0400
+
+    Add files via upload
+
+[33mcommit d5eb5645cfe4656877917f25aee0c4d1118ef97e[m
+Merge: e06aa6f ef13bde
+Author: praladh1982 <55456593+praladh1982@users.noreply.github.com>
+Date:   Wed Sep 25 11:39:26 2019 -0500
+
+    Merge pull request #3 from manthan9891994/praladh
+    
+    Praladh
+
+[33mcommit ef13bdec460834b91b2745b1462cb42f7a9701ef[m[33m ([m[1;31morigin/praladh[m[33m)[m
+Merge: 331d996 e06aa6f
+Author: praladh1982 <55456593+praladh1982@users.noreply.github.com>
+Date:   Wed Sep 25 11:39:16 2019 -0500
+
+    Merge branch 'master' into praladh
+
+[33mcommit e06aa6faa42da9e458563fb5ce8445560e7d096c[m
+Author: Bipul <Bipul@LAPTOP-GNEBVRN0>
+Date:   Wed Sep 25 11:34:50 2019 -0400
+
+    change
+
+[33mcommit a72db78758a16d05feb4f1f1d97edeae67791aa1[m
+Author: Bipul <Bipul@LAPTOP-GNEBVRN0>
+Date:   Wed Sep 25 10:46:22 2019 -0400
+
+    CHANGE
+
+[33mcommit 331d996034b5718b7d9f22b21aa27bead12f1f69[m
+Author: dhruba <dhruba@PRALADH>
+Date:   Tue Sep 24 14:03:32 2019 -0500
+
+    praladh  created new pakage
+
+[33mcommit 252b88141eed92b5a08f037bfc9f63383d802f33[m
+Author: dhruba <dhruba@PRALADH>
+Date:   Tue Sep 24 13:58:26 2019 -0500
+
+    praladh added new package
+
+[33mcommit 4de57577a07cb9b21d5ebab0df4ff3f0ea828f15[m
+Merge: 1964c6c b4a0276
+Author: manthan9891994 <55454414+manthan9891994@users.noreply.github.com>
+Date:   Tue Sep 24 23:12:33 2019 +0530
+
+    Merge pull request #2 from manthan9891994/Rama_Dev
+    
+    rama Package Add
+
+[33mcommit b4a0276e41903b961ab836127d2279e141a50baa[m[33m ([m[1;31morigin/Rama_Dev[m[33m)[m
+Merge: aa838a1 1964c6c
+Author: manthan9891994 <55454414+manthan9891994@users.noreply.github.com>
+Date:   Tue Sep 24 23:12:21 2019 +0530
+
+    Merge branch 'master' into Rama_Dev
+
+[33mcommit 1964c6c563f58e95bc626071356ddcc3f4eb93c8[m
+Merge: f16a36c a83d60c
+Author: rambabu1995 <55456673+rambabu1995@users.noreply.github.com>
+Date:   Tue Sep 24 12:20:20 2019 -0500
+
+    Merge pull request #1 from manthan9891994/Rambabu
+    
+    One packages is added by RAMBABU
+
+[33mcommit a83d60c191cdec3a1528432397511507386b5f90[m[33m ([m[1;31morigin/Rambabu[m[33m)[m
+Author: rambabu1995 <55456673+rambabu1995@users.noreply.github.com>
+Date:   Tue Sep 24 12:10:08 2019 -0500
+
+    One packages is added by RAMBABU
+
+[33mcommit aa838a1dd9860a90b19c3eb4e4695425adaf930b[m
+Author: manthan vaghela <manthan9894@gmail.com>
+Date:   Mon Sep 23 23:55:37 2019 +0530
+
+    rama Package Add
+
+[33mcommit f16a36c41fb6b8faa4303c91bc6ffe0be534350c[m
+Author: manthan vaghela <manthan9894@gmail.com>
+Date:   Mon Sep 23 22:51:03 2019 +0530
+
+    Initial commint for basic structure.
