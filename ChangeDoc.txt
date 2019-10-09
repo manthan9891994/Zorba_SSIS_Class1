@@ -1,0 +1,8 @@
+If(StudentName=="Ali")
+{
+Console.WriteLine("Git Lec");
+}
+else
+{
+CWL("C#");
+}
